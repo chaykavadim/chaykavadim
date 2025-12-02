@@ -22,7 +22,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: var(--dark);
-    background: linear-gradient(red,green) fixed;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) fixed;
 }
 
 .container {
@@ -457,5 +457,6 @@ h2::after {
     }
 
 }
+
 
 
