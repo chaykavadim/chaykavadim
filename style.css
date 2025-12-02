@@ -151,6 +151,7 @@ h2::after {
 .intro {
     text-align: center;
     padding: 60px 0;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) fixed;
 }
 
 .intro p {
@@ -162,7 +163,7 @@ h2::after {
 
 /* ===== ГАЛЕРЕЯ ===== */
 .gallery {
-    background: #f8f9fa;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) fixed;
 }
 
 .gallery-filters {
@@ -458,6 +459,7 @@ h2::after {
     }
 
 }
+
 
 
 
