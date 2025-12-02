@@ -22,7 +22,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: var(--dark);
-    background: linear-gradient(red,blue);
+    background: linear-gradient(red,green) fixed;
 }
 
 .container {
@@ -82,7 +82,7 @@ h2::after {
     position: fixed;
     top: 0;
     width: 100%;
-    background: Linear-gradient(blue,red);
+    background: rgba(255,255,255,1);
     backdrop-filter: blur(10px);
     z-index: 1000;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -457,4 +457,5 @@ h2::after {
     }
 
 }
+
 
